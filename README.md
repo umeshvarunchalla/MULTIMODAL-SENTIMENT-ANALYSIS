@@ -62,4 +62,3 @@ The work includes:
 - **Movie Review Sentiment Analysis:** Achieved **94% accuracy** using fine-tuned BERT on IMDB dataset
 - **Meme Sentiment Analysis:** Accurately classified meme sentiment and predicted humour, sarcasm, and offensive scores
 
----
