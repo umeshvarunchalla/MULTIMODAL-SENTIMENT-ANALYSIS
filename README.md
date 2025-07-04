@@ -2,8 +2,6 @@
 
 This repository contains code and resources for a comprehensive project on sentiment analysis and meme understanding using both **text** and **image** data. The project covers **fake news detection**, **movie review sentiment analysis using BERT**, and **multimodal meme sentiment classification**.
 
----
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -11,18 +9,14 @@ This repository contains code and resources for a comprehensive project on senti
 - [Methods](#methods)
 - [Results](#results)
 
----
-
 ## Project Overview
 
-The goal of this project is to develop and evaluate **machine learning** and **deep learning** models for sentiment analysis and meme classification using **both textual and visual data**.  
+The goal of this project is to develop and evaluate **machine learning** and **deep learning** models for sentiment analysis and meme classification using both textual and visual data.  
 The work includes:
 
 - Fake news detection using classical machine learning methods  
 - Sentiment analysis of movie reviews using **BERT**  
 - Multimodal meme sentiment analysis combining **text** and **image** features
-
----
 
 ## Features
 
@@ -34,10 +28,9 @@ The work includes:
 - Fine-tuned **BERT** model achieving **94% test accuracy** on IMDB movie review classification
 
 ### Meme Sentiment Analysis
-- Combined **text and image features** to classify memes from Twitter as **positive**, **negative**, or **neutral**
-- Predicted **humour**, **sarcasm**, and **offensive** scores
+- Combined **text and image features** to classify memes and Predicted humour, sarcasm, and offensive scores
 
-## Methods
+##Methods
 
 ### Text Preprocessing
 - Tokenization  
@@ -55,10 +48,7 @@ The work includes:
 ### Multimodal Learning
 - Combined **BERT embeddings** for text with **CNN-based image features** for meme sentiment classification
 
----
-
 ## Results
 
-- **Movie Review Sentiment Analysis:** Achieved **94% accuracy** using fine-tuned BERT on IMDB dataset
-- **Meme Sentiment Analysis:** Accurately classified meme sentiment and predicted humour, sarcasm, and offensive scores
-
+- Achieved 94% accuracy using fine-tuned BERT on IMDB dataset
+- Accurately classified meme sentiment and predicted humour, sarcasm, and offensive scores
