@@ -22,7 +22,6 @@ The work includes:
 
 ### Fake News Detection
 - Text preprocessing and classification using **Logistic Regression**, **Naive Bayes**, and **SVM**  
-- Performance comparison with confusion matrix visualization
 
 ### Movie Review Sentiment Analysis
 - Fine-tuned **BERT** model achieving **94% test accuracy** on IMDB movie review classification
