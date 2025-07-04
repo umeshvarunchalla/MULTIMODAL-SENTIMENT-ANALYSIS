@@ -30,7 +30,7 @@ The work includes:
 ### Meme Sentiment Analysis
 - Combined **text and image features** to classify memes and Predicted humour, sarcasm, and offensive scores
 
-##Methods
+## Methods
 
 ### Text Preprocessing
 - Tokenization  
