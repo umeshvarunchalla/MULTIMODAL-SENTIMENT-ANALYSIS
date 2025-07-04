@@ -50,5 +50,5 @@ The work includes:
 
 ## Results
 
-- Achieved 94% accuracy using fine-tuned BERT on IMDB dataset
+- Achieved 94% test accuracy using fine-tuned BERT on classifying IMDB dataset
 - Accurately classified meme sentiment and predicted humour, sarcasm, and offensive scores
